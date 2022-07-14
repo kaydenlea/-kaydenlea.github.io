@@ -53,10 +53,10 @@ header{
     height: auto;
     position: absolute;
     left: calc(50% - 15rem);
-    margin-top: 4rem;
-    border-radius: 50rem 50rem 12rem 12rem;
+    margin-top: 3rem;
+    border-radius: 30rem 30rem 12rem 12rem;
     overflow:hidden;
-    padding: .5rem 1.5rem 1.5rem 1.5rem;
+    padding: .2rem 1.5rem 1.5rem 1.5rem;
     
 
 }
