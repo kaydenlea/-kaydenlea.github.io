@@ -1,9 +1,8 @@
+
 header{
     height: 100vh;
     padding-top:7rem;
     overflow: hidden;
-
-    
 }
 
 .name{
@@ -12,7 +11,10 @@ header{
 .header__container{
     text-align: center;
     height: 100%;
+    width:100%;
     position: relative;
+    margin-bottom: auto;
+    
 }
 .cta{
     margin-top: 2.5rem;
@@ -39,19 +41,24 @@ header{
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
+    background-position: center;
+    background-size:contain;
 
 }
 
 .me{
     /* background: linear-gradient(var(--color-primary), transparent); */
-    width: 22rem;
-    height: 30rem;
+    display: block;
+    width: 30rem;
+    height: auto;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 15rem);
     margin-top: 4rem;
-    border-radius: 20rem 20rem 12rem 12rem;
+    border-radius: 50rem 50rem 12rem 12rem;
     overflow:hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: .5rem 1.5rem 1.5rem 1.5rem;
+    
+
 }
 
 .scroll__down{
@@ -72,6 +79,9 @@ header{
 @media screen and (max-width: 600px){
     header{
         height: 100vh;
+    }
+    .me{
+        visibility:hidden ;
     }
     .header__socials,
     .scroll__down{
