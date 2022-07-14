@@ -78,8 +78,8 @@ const Portfolio = () => {
           </div>
             <h3>Portfolio Website Code</h3>
             <div className='portfolio__item-cta'>
-            <a href="https://github.com/kaydenlea/react-portfolio-website1" className='btn' target='_blank'>Github</a>
-            <a href="https://github.com/kaydenlea/react-portfolio-website1" className='btn btn-primary'>Live Demo</a>
+            <a href="https://github.com/kaydenlea/portfolio" className='btn' target='_blank'>Github</a>
+            {/* <a href="https://github.com/kaydenlea/react-portfolio-website1" className='btn btn-primary'>Live Demo</a> */}
             </div>
             
         </article>

@@ -34,7 +34,9 @@ const About = () => {
         </div>
 
         <p>
-        Aspiring data scienctist and environmental studies undergraduate student specializing in machine learning and sustainability seeking to use technology to benefit our environment in order to create a better world for ourselves and the overall future of humanity. Seeking experience that can benefit me in developing my skills in either field of environmental studies or computer/data science.
+        Aspiring data scientist and environmental studies student specializing in machine learning 
+        and sustainability. Seeking experience in data science and computer science in order to create
+        a more advanced world.
       </p>
       <a href='#contact' className='btn btn-primary'> Let's Talk</a>
       </div>
