@@ -3,14 +3,13 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/me.jpg'
 import HeaderSocial from './HeaderSocials'
+import { TypeAnimation } from 'react-type-animation';
 const Header = () => {
   return (  
     <header>
       <div className="container header__container">
-        <h5>
-          Hello I'm
-        </h5>
-        <h1 className='name'>Kayden Lea</h1>
+        
+        <h1 className='name'><TypeAnimation sequence ={['Caden Lee', 1000, 'Kaden Lee',1000, 'Kayden Lee', 2000, 'Kayden Lea']}></TypeAnimation></h1>
         <h5 className="text-light">
           Data Scientist
         </h5>

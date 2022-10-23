@@ -3,6 +3,7 @@
     display:grid;
     grid-template-columns:30% 50%;
     gap: 12%;
+    color: var(--color-white);
 }
 
 .contact__options{
@@ -41,16 +42,23 @@ form{
     display:flex;
     flex-direction: column;
     gap: 1.2rem;
+    color: var(--color-white);
 
 }
+
 input, textarea{
     width:100%;
+    color:#fff;
     padding: 1.5rem;
     border-radius: 0.5rem;
-    background:transparent;
-    border:2px solid var(--color-primary-variant);
+    background:white;
+    border:2px solid var(--color-white);
     resize:none;
-    color:var(--color-white);
+    
+}
+
+button, submit{
+    background:transparent;
 }
 
 @media screen and (max-width:1024px){
