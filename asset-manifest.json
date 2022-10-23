@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c261e3b.css",
-    "main.js": "/static/js/main.cf5fe346.js",
+    "main.css": "/static/css/main.ca42dcfc.css",
+    "main.js": "/static/js/main.cc77e0bc.js",
     "static/media/about-me.jpg": "/static/media/about-me.0645cf15282fd4f2ba7a.jpg",
-    "static/media/Resume.pdf": "/static/media/Resume.b212fbbd0ac736f11464.pdf",
-    "static/media/me.jpg": "/static/media/me.a70617776ed39663eb56.jpg",
-    "static/media/bg.jpg": "/static/media/bg.976ff1c4551e5fa78914.jpg",
+    "static/media/me.jpg": "/static/media/me.0e5a708b9aff9cd475fc.jpg",
+    "static/media/bg.jpg": "/static/media/bg.f4c7a1466d777cc65ee1.jpg",
+    "static/media/Resume.pdf": "/static/media/Resume.3d9a3bcdb725633549c9.pdf",
     "static/media/numbers.jpg": "/static/media/numbers.a75b4567142bd046db7f.jpg",
     "static/media/website.jpg": "/static/media/website.f373ed01bded39927227.jpg",
     "static/media/twitter.jpg": "/static/media/twitter.6026ef8f9b6c7c3cc7ca.jpg",
     "static/media/coding.jpeg": "/static/media/coding.cc50fd3bf3603fd12162.jpeg",
     "static/media/airquality.jpg": "/static/media/airquality.554c7e09dab7bd9cc003.jpg",
     "index.html": "/index.html",
-    "main.0c261e3b.css.map": "/static/css/main.0c261e3b.css.map",
-    "main.cf5fe346.js.map": "/static/js/main.cf5fe346.js.map"
+    "main.ca42dcfc.css.map": "/static/css/main.ca42dcfc.css.map",
+    "main.cc77e0bc.js.map": "/static/js/main.cc77e0bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c261e3b.css",
-    "static/js/main.cf5fe346.js"
+    "static/css/main.ca42dcfc.css",
+    "static/js/main.cc77e0bc.js"
   ]
 }
