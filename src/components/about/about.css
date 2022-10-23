@@ -5,7 +5,13 @@
     gap: 15%;
     place-items:center;
     
+    
 
+}
+.aboutheader{
+    display:grid;
+    place-items:center;
+    margin-right: 2rem;
 }
 
 .about__me{
@@ -20,6 +26,7 @@
     background-position: center; */
     display:grid;
     place-items:center;
+    margin-top: auto;
 
 }
 
@@ -28,6 +35,8 @@
     overflow: hidden;
     transform:rotate(0deg);
     transition: var(--transition);
+    max-width: 90%;
+    height: auto;
     
 
 }
