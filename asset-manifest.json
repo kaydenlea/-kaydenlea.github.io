@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca42dcfc.css",
-    "main.js": "/static/js/main.cc77e0bc.js",
-    "static/media/about-me.jpg": "/static/media/about-me.0645cf15282fd4f2ba7a.jpg",
-    "static/media/me.jpg": "/static/media/me.0e5a708b9aff9cd475fc.jpg",
-    "static/media/bg.jpg": "/static/media/bg.f4c7a1466d777cc65ee1.jpg",
+    "main.css": "/static/css/main.54e148fb.css",
+    "main.js": "/static/js/main.67fd5cac.js",
+    "static/media/about-me.jpg": "/static/media/about-me.0e5a708b9aff9cd475fc.jpg",
+    "static/media/me.jpg": "/static/media/me.ec8b46115d6bef220343.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.3d9a3bcdb725633549c9.pdf",
     "static/media/numbers.jpg": "/static/media/numbers.a75b4567142bd046db7f.jpg",
     "static/media/website.jpg": "/static/media/website.f373ed01bded39927227.jpg",
@@ -12,11 +11,11 @@
     "static/media/coding.jpeg": "/static/media/coding.cc50fd3bf3603fd12162.jpeg",
     "static/media/airquality.jpg": "/static/media/airquality.554c7e09dab7bd9cc003.jpg",
     "index.html": "/index.html",
-    "main.ca42dcfc.css.map": "/static/css/main.ca42dcfc.css.map",
-    "main.cc77e0bc.js.map": "/static/js/main.cc77e0bc.js.map"
+    "main.54e148fb.css.map": "/static/css/main.54e148fb.css.map",
+    "main.67fd5cac.js.map": "/static/js/main.67fd5cac.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca42dcfc.css",
-    "static/js/main.cc77e0bc.js"
+    "static/css/main.54e148fb.css",
+    "static/js/main.67fd5cac.js"
   ]
 }
